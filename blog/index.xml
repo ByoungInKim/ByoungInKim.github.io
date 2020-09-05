@@ -6,40 +6,31 @@
     <description>Recent content in Blogs on Kenny Kim</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Mon, 03 Oct 2016 16:59:13 -0400</lastBuildDate>
+    <lastBuildDate>Tue, 02 Jun 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://ByoungInKim.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Hooli’s Hot New Hardware</title>
-      <link>https://ByoungInKim.github.io/blog/third/</link>
-      <pubDate>Mon, 03 Oct 2016 16:59:13 -0400</pubDate>
+      <title>리액트 네이티브 VS 플러터 나의 선택은?</title>
+      <link>https://ByoungInKim.github.io/blog/react-native-vs-flutter/</link>
+      <pubDate>Tue, 02 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://ByoungInKim.github.io/blog/third/</guid>
-      <description>Note: This article originally appeared in CodeRag.
-When Hooli acquired Endframe, no one could wait to see what the tech giant would do with the revolutionary, middle-out compression technology. The wait is over: In a savvy pivot, Hooli took the software and created their newest hardware: the Hooli/Endframe Box. While initially conceived as a consumer-facing platform, the Endframe technology has been repurposed to “make the world a better place through secure, high-capacity enterprise data storage servers utilizing middle-out compression technology.</description>
+      <guid>https://ByoungInKim.github.io/blog/react-native-vs-flutter/</guid>
+      <description>리액트 네이티브, 플러터 어떤 언어로 앱개발을 시작할지 고민하고 계신가요? 이미 어플 개발경험이 있는 분들이 아니라면 처음 프로젝트를 시작할때부터 많은 고민을 하게 되는데요. 오늘은 제일 먼저 시작한 고민중 하나인 어떤걸 사용해서 개발할지 제가 고민하고 선택한 이유에 관해 알려드리겠습니다.
+사실 고려할 사항이 많았지만 처음 어플 개발을 하는것이었기 때문에 최대한 단순하고 개발부터 등록해서 서비스 까지 최대한 짧은 시간에 하는것을 목표로 했고 제가 생각한 요구사항은 크게 2가지 였습니다.
+요구사항  멀티플랫폼 지원 커뮤니티의 크기  1.</description>
     </item>
     
     <item>
-      <title>Gavin Belson</title>
-      <link>https://ByoungInKim.github.io/blog/first/</link>
-      <pubDate>Sun, 02 Oct 2016 15:59:13 -0400</pubDate>
+      <title>어플 개발을 시작하며</title>
+      <link>https://ByoungInKim.github.io/blog/starting-app-development/</link>
+      <pubDate>Thu, 28 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://ByoungInKim.github.io/blog/first/</guid>
-      <description>Note: This article originally appeared in CodeRag.
-Gavin Belson’s name has long been synonymous with innovation—but beyond his work at Hooli, do we even know the man behind the rampant success? In a Code/Rag exclusive, Belson revealed to us 10 things about himself that aren’t common knowledge.
- He’s a nature fanatic! “It’s important to me that Hooli has an effective recycling program, and a personal passion of mine is donating to elephant sanctuaries.</description>
-    </item>
-    
-    <item>
-      <title>Belson Back on Top</title>
-      <link>https://ByoungInKim.github.io/blog/second/</link>
-      <pubDate>Sat, 01 Oct 2016 16:59:13 -0400</pubDate>
-      
-      <guid>https://ByoungInKim.github.io/blog/second/</guid>
-      <description>Note: This post originally appeared in CodeRag
-Gavin Belson’s brilliant leadership is unstoppable. While allegedly taking a personal hiatus from day-to-day operations at Hooli, Belson couldn’t resist brokering a blockbuster deal between Hooli and Maleant Data Systems, deploying Hooli’s innovative new Hooli/Endframe Box. The multi-year deal brings handsome margins for Hooli and can easily be a template to apply across the entire Fortune 1000. An inside source tells me that, no surprise, the board was no longer satisfied to let Belson fade into the background.</description>
+      <guid>https://ByoungInKim.github.io/blog/starting-app-development/</guid>
+      <description>자청, 신사임당, 대학생 김머신, 리남등 많은 성공한 사람들이 다양한 방법으로 경제적 자유를 획득한 사람들의 이야기가 홍수처럼 쏟아져 나오고 있습니다. 저 또한 이런 사람들의 글과 영상을 보며 평범한 직장인이 아닌 경제적 자유를 얻어 조금더 자유롭게 살고 싶다는 생각을 하게 되었습니다. 아마 대부분 이런 영상을 보기 이전에도 부자가 되고 싶다는 생각을 막연히 하셨을거라고 생각합니다.
+저도 그랬고 부자가 되고 싶지 않은 사람은 없으니까요.
+대학교를 졸업하고 처음 회사를 다니고 몇년간은 막연하게 열심히 살면 부자가 될것이라고 생각했었습니다.</description>
     </item>
     
   </channel>
