@@ -8,17 +8,7 @@
   </url>
   
   <url>
-    <loc>https://ByoungInKim.github.io/categories/app/</loc>
-    <lastmod>2020-07-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://ByoungInKim.github.io/blog/</loc>
-    <lastmod>2020-07-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ByoungInKim.github.io/categories/</loc>
     <lastmod>2020-07-24T00:00:00+00:00</lastmod>
   </url>
   
@@ -43,6 +33,11 @@
   </url>
   
   <url>
+    <loc>https://ByoungInKim.github.io/posts/</loc>
+    <lastmod>2020-07-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://ByoungInKim.github.io/tags/react/</loc>
     <lastmod>2020-07-24T00:00:00+00:00</lastmod>
   </url>
@@ -58,7 +53,17 @@
   </url>
   
   <url>
+    <loc>https://ByoungInKim.github.io/posts/think-about-app-devlopment/</loc>
+    <lastmod>2020-07-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://ByoungInKim.github.io/blog/how-can-i-get-a-good-ideas/</loc>
+    <lastmod>2020-06-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ByoungInKim.github.io/posts/how-can-i-get-a-good-ideas/</loc>
     <lastmod>2020-06-25T00:00:00+00:00</lastmod>
   </url>
   
@@ -68,7 +73,17 @@
   </url>
   
   <url>
+    <loc>https://ByoungInKim.github.io/posts/react-native-vs-flutter/</loc>
+    <lastmod>2020-06-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://ByoungInKim.github.io/blog/starting-app-development/</loc>
+    <lastmod>2020-05-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ByoungInKim.github.io/posts/starting-app-development/</loc>
     <lastmod>2020-05-28T00:00:00+00:00</lastmod>
   </url>
   
