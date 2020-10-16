@@ -3,87 +3,62 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://kimkeni.com/tags/app/</loc>
+    <loc>https://kimkeni.com/tags/app/</loc>
     <lastmod>2020-07-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://kimkeni.com/blog/</loc>
+    <loc>https://kimkeni.com/tags/development/</loc>
     <lastmod>2020-07-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://kimkeni.com/tags/development/</loc>
+    <loc>https://kimkeni.com/tags/flutter/</loc>
     <lastmod>2020-07-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://kimkeni.com/tags/flutter/</loc>
+    <loc>https://kimkeni.com/tags/ideas/</loc>
     <lastmod>2020-07-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://kimkeni.com/tags/ideas/</loc>
+    <loc>https://kimkeni.com/</loc>
     <lastmod>2020-07-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://kimkeni.com/</loc>
+    <loc>https://kimkeni.com/posts/</loc>
     <lastmod>2020-07-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://kimkeni.com/posts/</loc>
+    <loc>https://kimkeni.com/tags/react/</loc>
     <lastmod>2020-07-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://kimkeni.com/tags/react/</loc>
+    <loc>https://kimkeni.com/tags/</loc>
     <lastmod>2020-07-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://kimkeni.com/tags/</loc>
+    <loc>https://kimkeni.com/posts/think-about-app-devlopment/</loc>
     <lastmod>2020-07-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://kimkeni.com/blog/think-about-app-devlopment/</loc>
-    <lastmod>2020-07-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://kimkeni.com/posts/think-about-app-devlopment/</loc>
-    <lastmod>2020-07-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://kimkeni.com/blog/how-can-i-get-a-good-ideas/</loc>
+    <loc>https://kimkeni.com/posts/how-can-i-get-a-good-ideas/</loc>
     <lastmod>2020-06-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://kimkeni.com/posts/how-can-i-get-a-good-ideas/</loc>
-    <lastmod>2020-06-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://kimkeni.com/blog/react-native-vs-flutter/</loc>
+    <loc>https://kimkeni.com/posts/react-native-vs-flutter/</loc>
     <lastmod>2020-06-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://kimkeni.com/posts/react-native-vs-flutter/</loc>
-    <lastmod>2020-06-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://kimkeni.com/blog/starting-app-development/</loc>
-    <lastmod>2020-05-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://kimkeni.com/posts/starting-app-development/</loc>
+    <loc>https://kimkeni.com/posts/starting-app-development/</loc>
     <lastmod>2020-05-28T00:00:00+00:00</lastmod>
   </url>
   
